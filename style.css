@@ -81,7 +81,6 @@ button.btn:hover {
   border: 1px solid var(--light-heading-clr);
 }
 
-/*===home section styling start === */
 section .home {
   position: relative;
   width: 100%;
@@ -244,7 +243,6 @@ section .home {
   transform: scaleX(0);
 }
 
-/*start of styling the tripple bar */
 .main-navbar .menu-btn {
   min-width: 30px;
   width: 30px;
@@ -287,7 +285,6 @@ section .home {
   transform: translateY(9px);
 }
 
-/*-this transform scalex(1) when you hover on the  heading link the bottom line appear*/
 .main-navbar .nav-list li a:hover::after {
   transform: scaleX(1);
 }
@@ -429,7 +426,6 @@ section .home {
   font-size: 24px;
   font-weight: 600;
   margin-bottom: 2px;
-  /*this will change th color of 284+ to bold*/
 }
 
 .state .total-course .disc span:nth-child(2) {
@@ -485,7 +481,6 @@ section .home {
   opacity: 0.4;
 }
 
-/* start of service section styling*/
 .service {
   width: 100%;
   padding: 100px 8% 20px;
